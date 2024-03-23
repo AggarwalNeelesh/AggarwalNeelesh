@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neelesh Aggarwal</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">Software Backend Engineer at Birdeye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aggarwalneelesh&label=Profile%20views&color=0e75b6&style=flat" alt="aggarwalneelesh" /> </p>
 
  - 🔭 I’m currently pursuing my B.Tech in Computer Science and Engineering (CSE) from DIT University
- - 👀 I’m proficient in Web-Development, Software development and languages like Python, Java, Javascript and having experience in frameworks like MERN Stack, Django.
+ - 👀 I’m proficient in Web-Development, Software development and languages like Python, Java, Javascript and having experience in frameworks like SpringBoot, MERN Stack, Django REST.
 
-Apart from that I also have knowledge of Docker, Cloud Computing and Blockchain Technology.
+Apart from that I also have knowledge of ElasticSearch, Apache Nifi, Devtron, Docker, Cloud Computing and Blockchain Technology.
 
  - 👯 I’m looking to collaborate on Any interesting projects with Java, ReactJS or Python
  - 👨‍💻 Have a look on my portfolio **[https://neelesh-portfolio.vercel.app/](https://neelesh-portfolio.vercel.app/)**
